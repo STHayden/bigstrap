@@ -110,6 +110,7 @@ hr.soften {
   font-weight: bold;
   letter-spacing: -1px;
   line-height: 1;
+  color:#fff;
 }
 .jumbotron p {
   font-size: 24px;
@@ -137,7 +138,6 @@ hr.soften {
   font-size: 24px;
   font-weight: 200;
   color: #fff; /* redeclare to override the `.jumbotron a` */
-  border: 0;
   -webkit-border-radius: 6px;
      -moz-border-radius: 6px;
           border-radius: 6px;
@@ -239,6 +239,7 @@ hr.soften {
 }
 .subhead h1 {
   font-size: 60px;
+  color: #FFF;
 }
 .subhead p {
   margin-bottom: 20px;
